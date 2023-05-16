@@ -1,0 +1,50 @@
+*{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+}
+/* #img{
+        width: 100%;
+        height:500px;
+        border: 1px solid red;
+        /* overflow: hidden; */
+        /* display: flex;
+        justify-content:space-around;
+        align-items: center; */
+/* }
+#div{
+        width: 200px;
+        height: 100px;
+      
+       
+}
+img{
+     border: 2px solid rgb(155, 255, 48);
+     border-radius:30px;
+     overflow: hidden;
+}
+.abc{
+        display: inline;
+} */ 
+
+.kchbhy{
+        display: inline-block;
+        padding: 10px;
+        background-color: rgb(192, 243, 163);
+        width: 100px;
+        border: none;
+        border-radius: 100px;
+        -webkit-border-radius: 100px;
+        -moz-border-radius: 100px;
+        -ms-border-radius: 100px;
+        -o-border-radius: 100px;
+        text-align: center;
+        cursor: pointer;
+}
+input{
+        padding: 10px;
+        background-color: darkgray;
+        width: 100px;
+        text-align: center;
+
+}
